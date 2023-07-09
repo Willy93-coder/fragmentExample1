@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">fragmentExample1</string>
+    <string name="btn_text">Cambiar Fragment</string>
+    <string name="text_fragment_1">Fragment ONE</string>
+    <string name="text_fragment_2">Fragment TWO</string>
+    <string name="text_fragment_3">Fragment THREE</string>
 </resources>
